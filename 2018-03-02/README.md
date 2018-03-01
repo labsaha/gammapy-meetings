@@ -6,7 +6,7 @@
 # Agenda
 
 * Software report (CD)
-* Binary call: https://doodle.com/poll/skay6hd94uvmqaz 
+* Binary call: https://doodle.com/poll/skay6hd94uvmqazv 
 * DC1 analysis results
   * Giovanni: GC analysis
   * Fabio: status report on RXJ1713 Dc1 analysis
