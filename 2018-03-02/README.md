@@ -53,7 +53,7 @@
   * https://github.com/gammasky/cta-analyses/tree/master/dc-1-checks/rx_j1713
   * Slides?
 * Gamma-ray binary analysis with Gammapy (Lab Saha)
-  * Dedicated call soon. If you're interested, please fill https://doodle.com/poll/skay6hd94uvmqaz now.
+  * Dedicated call soon. If you're interested, please fill https://doodle.com/poll/skay6hd94uvmqazv now.
   * TODO: add infos
 
 
